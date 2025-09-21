@@ -161,6 +161,7 @@ UPROGS=\
 	_echo\
 	_forktest\
 	_grep\
+	_proj0\
 	_init\
 	_kill\
 	_ln\
